@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacles
+  - ScoreZone
+  - Boundaries
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Bird
+  - Ground
+  - Obstacles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3669838687
+    locked: 0
+  - name: Bird
+    uniqueID: 868359355
+    locked: 0
+  - name: Obstacles
+    uniqueID: 3322623969
+    locked: 0
+  - name: Ground
+    uniqueID: 716067169
+    locked: 0
+  - name: UI
+    uniqueID: 3801233989
+    locked: 0
